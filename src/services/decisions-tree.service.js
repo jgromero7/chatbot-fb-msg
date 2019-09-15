@@ -1,0 +1,4 @@
+decisionsTree = {};
+
+
+module.exports = decisionsTree;
